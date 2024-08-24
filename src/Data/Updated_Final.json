@@ -1,0 +1,3586 @@
+[
+  {
+    "distance": "228 km",
+    "local": "Hòa Bình, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "Thung lũng Mai Châu | 2N1Đ sống như người dân tộc Thái",
+    "author": {
+      "name": "Author_74",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/14.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe máy",
+    "type": ["nghỉ dưỡng", "Gia đình", "camping"],
+    "id": 1
+  },
+  {
+    "distance": "69 km",
+    "local": "Sóc Sơn, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "1 ngày trekking và camping núi Hàm Lợn Sóc Sơn - Tất tần tật kinh nghiệm du lịch ở nóc nhà thủ đô",
+    "author": {
+      "name": "Author_54",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/77.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["camping"],
+    "id": 2
+  },
+  {
+    "distance": "148 km",
+    "local": "Ninh Bình, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "2 ngày",
+    "title": "Lịch trình du lịch khám phá vùng đất Ninh Bình 2N1Đ tự túc xuất phát từ Hà Nội",
+    "author": {
+      "name": "Author_49",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/20.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "ô tô",
+    "type": ["Gia đình", "nghỉ dưỡng", "du lịch trải nghiệm", "camping"],
+    "id": 3
+  },
+  {
+    "distance": "52 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=9",
+      "https://picsum.photos/1000/600?random=47",
+      "https://picsum.photos/1000/600?random=50",
+      "https://picsum.photos/1000/600?random=77",
+      "https://picsum.photos/1000/600?random=54"
+    ],
+    "time": "Trong ngày",
+    "title": "Hành trình tự túc 1 ngày khám phá vẻ đẹp Đà Lạt - xuất phát từ Đà Lạt",
+    "author": {
+      "name": "Author_9",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/79.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "xe đạp",
+    "type": [
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng",
+      "Gia đình",
+      "camping",
+      "ẩm thực"
+    ],
+    "id": 4
+  },
+  {
+    "distance": "77 km",
+    "local": "Tam Đảo, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "Du lịch Tam Đảo 2N1Đ check in siêu ảo cực mát lạnh",
+    "author": {
+      "name": "Author_71",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/31.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "ô tô",
+    "type": ["Gia đình", "du lịch trải nghiệm", "ẩm thực", "nghỉ dưỡng"],
+    "id": 5
+  },
+  {
+    "distance": "43 km",
+    "local": "Chí Thạnh, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Khám phá Đà Lạt thứ 2 ở Phú Yên??!!! Cắm trại qua đêm - Tha hồ săn ảnh đẹp Cao Nguyên",
+    "author": {
+      "name": "Author_78",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/92.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["camping"],
+    "id": 6
+  },
+  {
+    "distance": "5 km",
+    "local": "Sơn Tây, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Tham quan làng cổ Đường Lâm-Hà Nội | 1 ngày giải mã bí ẩn Cổ trấn bị lãng quên",
+    "author": {
+      "name": "Author_18",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/60.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình"],
+    "id": 7
+  },
+  {
+    "distance": "229 km",
+    "local": "Cao Bằng, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình du lịch mùa nước nổi từ Bắc Kạn đến Cao Bằng 1N1Đ đắm mình trọn vẹn giữa thiên nhiên",
+    "author": {
+      "name": "Author_35",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/55.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe máy",
+    "type": [
+      "ẩm thực",
+      "Gia đình",
+      "camping",
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng"
+    ],
+    "id": 8
+  },
+  {
+    "distance": "17 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Buổi chiều ở Hà Nội chán thì làm gì? Tự làm nến thơm, racing car Go Kart và cafe hoàng hôn cực cuốn",
+    "author": {
+      "name": "Author_93",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "ô tô",
+    "type": ["ẩm thực"],
+    "id": 9
+  },
+  {
+    "distance": "36 km",
+    "local": "Da Nang, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Ngắm hoàng hôn kỳ ảo ở Đầm Lập An Lăng Cô từ Đà Nẵng di chuyển trong ngày",
+    "author": {
+      "name": "Author_1",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/65.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "đi bộ",
+    "type": [
+      "ẩm thực",
+      "du lịch trải nghiệm",
+      "Gia đình",
+      "nghỉ dưỡng",
+      "camping"
+    ],
+    "id": 10
+  },
+  {
+    "distance": "70 km",
+    "local": "Thành Phố Uông Bí, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=26",
+      "https://picsum.photos/1000/600?random=33",
+      "https://picsum.photos/1000/600?random=13",
+      "https://picsum.photos/1000/600?random=72"
+    ],
+    "time": "Trong ngày",
+    "title": "Nửa ngày camping vi vu Đỉnh Phượng Hoàng - Quảng Ninh bắt đầu từ Hải Phòng",
+    "author": {
+      "name": "Author_4",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/50.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "xe đạp",
+    "type": ["camping"],
+    "id": 11
+  },
+  {
+    "distance": "72 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Trải nghiệm 1 ngày nhảy dù cảm giác mạnh ngay ngoại ô Thủ đô",
+    "author": {
+      "name": "Author_94",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "xe đạp",
+    "type": ["du lịch trải nghiệm"],
+    "id": 12
+  },
+  {
+    "distance": "14 km",
+    "local": "Hà Đông, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày khám phá “tiểu vương quốc” Hà Đông: Trải nghiệm tàu cao tốc trên cao và trượt patin cực chill",
+    "author": {
+      "name": "Author_60",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/92.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "xe máy",
+    "type": ["du lịch trải nghiệm"],
+    "id": 13
+  },
+  {
+    "distance": "28 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=97",
+      "https://picsum.photos/1000/600?random=17",
+      "https://picsum.photos/1000/600?random=77"
+    ],
+    "time": "Trong ngày",
+    "title": "Nửa ngày đi chụp ảnh hoài cổ tại Đà Lạt",
+    "author": {
+      "name": "Author_33",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/70.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "đi bộ",
+    "type": [
+      "ẩm thực",
+      "Gia đình",
+      "du lịch trải nghiệm",
+      "camping",
+      "nghỉ dưỡng"
+    ],
+    "id": 14
+  },
+  {
+    "distance": "64 km",
+    "local": "Lai Châu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Du lịch khám phá Lai Châu 1N1D",
+    "author": {
+      "name": "Author_96",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/11.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "ô tô",
+    "type": [
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng",
+      "ẩm thực",
+      "Gia đình",
+      "camping"
+    ],
+    "id": 15
+  },
+  {
+    "distance": "74 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=98"],
+    "time": "Trong ngày",
+    "title": "1 ngày khám phá các danh lam thắng cảnh Phú Yên | Những địa điểm chụp hình đẹp | Đồ ăn ngon, giá rẻ",
+    "author": {
+      "name": "Author_67",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/20.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "ô tô",
+    "type": ["nghỉ dưỡng"],
+    "id": 16
+  },
+  {
+    "distance": "39 km",
+    "local": "Ninh Bình, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=44",
+      "https://picsum.photos/1000/600?random=50"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình 1 ngày từ Hà Nội về Ninh Bình trải nghiệm làm giấy dó truyền thống và phố cổ Hoa Lư",
+    "author": {
+      "name": "Author_77",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/47.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "ô tô",
+    "type": ["du lịch trải nghiệm"],
+    "id": 17
+  },
+  {
+    "distance": "96 km",
+    "local": "Nam Định, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=13",
+      "https://picsum.photos/1000/600?random=8"
+    ],
+    "time": "2 ngày",
+    "title": "2N1Đ khám phá Nam Định - lạc vào xứ sở các Nhà Thờ",
+    "author": {
+      "name": "Author_2",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/13.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình"],
+    "id": 18
+  },
+  {
+    "distance": "304 km",
+    "local": "Hà Giang, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "2 ngày",
+    "title": "Lịch trình phượt Hà Giang 2N1Đ cho ai thích hoài cổ, xuất phát từ tp. Hà Giang",
+    "author": {
+      "name": "Author_33",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/85.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "đi bộ",
+    "type": [
+      "ẩm thực",
+      "Gia đình",
+      "camping",
+      "nghỉ dưỡng",
+      "du lịch trải nghiệm"
+    ],
+    "id": 19
+  },
+  {
+    "distance": "73 km",
+    "local": "Đồng Nai, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Picnic, dã ngoại hồ Trị An- Đồng Nai, chill cuối tuần cho gia đình, nhóm bạn, cặp đôi [Trong ngày]",
+    "author": {
+      "name": "Author_96",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/98.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "ô tô",
+    "type": ["Gia đình"],
+    "id": 20
+  },
+  {
+    "distance": "81 km",
+    "local": "Thái Nguyên, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình đi tắm suối, picnic tự túc suối Đá Cổng, Thái Nguyên - xuất phát từ Hà Nội",
+    "author": {
+      "name": "Author_78",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/44.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "ô tô",
+    "type": ["Gia đình", "nghỉ dưỡng", "ẩm thực", "camping"],
+    "id": 21
+  },
+  {
+    "distance": "4 km",
+    "local": "Phú Quốc, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Khám phá Phú Quốc về đêm - du lịch trong ngày",
+    "author": {
+      "name": "Author_27",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/75.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "ô tô",
+    "type": [
+      "ẩm thực",
+      "nghỉ dưỡng",
+      "Gia đình",
+      "du lịch trải nghiệm",
+      "camping"
+    ],
+    "id": 22
+  },
+  {
+    "distance": "53 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình 1 ngày đi chụp ảnh đầm sen sống ảo mùa Hè khiến ai cũng mê mẩn - xuất phát từ Hà Nội",
+    "author": {
+      "name": "Author_16",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/35.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping", "Gia đình", "nghỉ dưỡng"],
+    "id": 23
+  },
+  {
+    "distance": "54 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "2N1Đ bao trọn Đà Lạt | Ngắm mây Lưng Đồi, checkin biệt thự hoa hồng và làng hoa Vạn Thành",
+    "author": {
+      "name": "Author_1",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/83.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "ô tô",
+    "type": ["camping", "Gia đình"],
+    "id": 24
+  },
+  {
+    "distance": "50 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "1 ngày ghé thăm làng văn hoá các dân tộc Việt Nam ngay tại thủ đô Hà Nội",
+    "author": {
+      "name": "Author_84",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/64.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe máy",
+    "type": ["ẩm thực", "nghỉ dưỡng", "camping", "du lịch trải nghiệm"],
+    "id": 25
+  },
+  {
+    "distance": "131 km",
+    "local": "Phan Thiết, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Cung đường di chuyển Phan Thiết Đà Lạt thơ mộng qua đèo Đại Ninh - cung đèo đẹp nhất Nam Trung Bộ",
+    "author": {
+      "name": "Author_90",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/55.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "ô tô",
+    "type": ["camping"],
+    "id": 26
+  },
+  {
+    "distance": "308 km",
+    "local": "Lai Châu, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Hành trình phượt bằng xe máy 7 tiếng từ Yên Bái đến lai Châu với những địa điểm dừng chân cực đẹp",
+    "author": {
+      "name": "Author_50",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/64.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "xe máy",
+    "type": ["camping"],
+    "id": 27
+  },
+  {
+    "distance": "134 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Cung đường di chuyển hùng vĩ từ Nha Trang lên Đà Lạt qua đèo Khánh Lê - kèm chút cute dọc đường",
+    "author": {
+      "name": "Author_68",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/89.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["nghỉ dưỡng", "ẩm thực"],
+    "id": 28
+  },
+  {
+    "distance": "32 km",
+    "local": "Hồ Chí Minh, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "2 ngày",
+    "title": "Khám phá Sài Gòn - Thành Phố Hồ Chí Minh 2N1Đ, thích hợp cho bạn trẻ, người nước ngoài ưa trải nghệm",
+    "author": {
+      "name": "Author_79",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/29.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe máy",
+    "type": [
+      "du lịch trải nghiệm",
+      "ẩm thực",
+      "nghỉ dưỡng",
+      "Gia đình",
+      "camping"
+    ],
+    "id": 29
+  },
+  {
+    "distance": "39 km",
+    "local": "Hạ Long, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "2 ngày",
+    "title": "Lịch trình 2n1đ phượt biển hết mình tại Hạ Long- phá đảo Sun World và du thuyến 5 sao Catamaran",
+    "author": {
+      "name": "Author_71",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/92.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "xe đạp",
+    "type": ["Gia đình"],
+    "id": 30
+  },
+  {
+    "distance": "45 km",
+    "local": "Sông Cầu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "Nghỉ dưỡng và khám phá bãi biển hoang sơ Phú Yên Sông Cầu - xuất phát từ Quy Nhơn",
+    "author": {
+      "name": "Author_97",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/36.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe máy",
+    "type": ["nghỉ dưỡng"],
+    "id": 31
+  },
+  {
+    "distance": "24 km",
+    "local": "Sa Pa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "1 ngày ở bản Tả Van dành cho gia đình du lịch tự túc",
+    "author": {
+      "name": "Author_30",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/97.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "ô tô",
+    "type": ["Gia đình"],
+    "id": 32
+  },
+  {
+    "distance": "93 km",
+    "local": "Vinh, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "2 ngày",
+    "title": "2N1Đ vi vu Nghệ An thăm quê Bác và biển Cửa Lò",
+    "author": {
+      "name": "Author_83",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/51.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["du lịch trải nghiệm", "Gia đình"],
+    "id": 33
+  },
+  {
+    "distance": "404 km",
+    "local": "Sa Pa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=71"],
+    "time": "2 ngày",
+    "title": "Du lịch Sa pa 2 Ngày 1 đêm đi từ Hà Nội tự túc - đi chơi đâu ăn gì?",
+    "author": {
+      "name": "Author_17",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/85.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["du lịch trải nghiệm"],
+    "id": 34
+  },
+  {
+    "distance": "106 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Di tích K9- 1 ngày tìm hiểu về nhà tưởng niệm chủ tịch Hồ Chí Minh",
+    "author": {
+      "name": "Author_89",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/50.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe máy",
+    "type": ["nghỉ dưỡng", "Gia đình", "du lịch trải nghiệm"],
+    "id": 35
+  },
+  {
+    "distance": "54 km",
+    "local": "Phúc Yên, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=93",
+      "https://picsum.photos/1000/600?random=65",
+      "https://picsum.photos/1000/600?random=68",
+      "https://picsum.photos/1000/600?random=98",
+      "https://picsum.photos/1000/600?random=69"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình du lịch khám phá quanh hồ Đại Lải trong ngày",
+    "author": {
+      "name": "Author_76",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/67.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["Gia đình", "nghỉ dưỡng", "du lịch trải nghiệm"],
+    "id": 36
+  },
+  {
+    "distance": "71 km",
+    "local": "Tam Đảo, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "1 ngày từ Hà Nội lên sống ảo ở Tam Đảo siêu chill",
+    "author": {
+      "name": "Author_46",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/30.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "xe máy",
+    "type": ["Gia đình", "du lịch trải nghiệm"],
+    "id": 37
+  },
+  {
+    "distance": "66 km",
+    "local": "Ninh Bình, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "2 ngày",
+    "title": "2 ngày 1 đêm ngược dòng quá khứ về cố đô Hoa Lư Ninh Bình",
+    "author": {
+      "name": "Author_64",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/58.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "ô tô",
+    "type": ["ẩm thực", "Gia đình", "camping"],
+    "id": 38
+  },
+  {
+    "distance": "200 km",
+    "local": "Sa Pa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Từ Yên Bái đi phượt bằng xe máy ngắm Thung lũng Mường Hoa sống ảo cháy máy",
+    "author": {
+      "name": "Author_58",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/80.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "xe máy",
+    "type": [
+      "camping",
+      "ẩm thực",
+      "Gia đình",
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng"
+    ],
+    "id": 39
+  },
+  {
+    "distance": "50 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày ngắm cảnh vui chơi thả ga tại Đà Lạt",
+    "author": {
+      "name": "Author_61",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/76.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["nghỉ dưỡng", "ẩm thực"],
+    "id": 40
+  },
+  {
+    "distance": "44 km",
+    "local": "Hải Phòng, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày cuối tuần du hí ở thành phố cảng Hải Phòng | Trải nghiệm Big Sun và tham quan dinh Bảo Đại",
+    "author": {
+      "name": "Author_70",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/36.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "đi bộ",
+    "type": ["du lịch trải nghiệm"],
+    "id": 41
+  },
+  {
+    "distance": "376 km",
+    "local": "Sa Pa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "3 ngày",
+    "title": "3 ngày 2 đêm khám phá Sapa - Fansipan: Nấc thang lên thiên đường",
+    "author": {
+      "name": "Author_8",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/95.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình", "du lịch trải nghiệm", "nghỉ dưỡng", "ẩm thực"],
+    "id": 42
+  },
+  {
+    "distance": "25 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Phượt Phú Yên chơi gì🌳Những địa điểm màu xanh ở Phú Yên | Trải nghiệm thiên nhiên hoang dã!",
+    "author": {
+      "name": "Author_62",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/35.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "đi bộ",
+    "type": ["du lịch trải nghiệm"],
+    "id": 43
+  },
+  {
+    "distance": "119 km",
+    "local": "Vũng Tàu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=38",
+      "https://picsum.photos/1000/600?random=62",
+      "https://picsum.photos/1000/600?random=32"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình đi dã ngoại Hồ Cốc Hồ Tràm trong ngày từ Hồ Chí Minh",
+    "author": {
+      "name": "Author_80",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/89.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping", "nghỉ dưỡng", "Gia đình"],
+    "id": 44
+  },
+  {
+    "distance": "225 km",
+    "local": "Cao Bằng, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=46",
+      "https://picsum.photos/1000/600?random=53",
+      "https://picsum.photos/1000/600?random=58",
+      "https://picsum.photos/1000/600?random=73",
+      "https://picsum.photos/1000/600?random=80"
+    ],
+    "time": "2 ngày",
+    "title": "Lịch trình 2N1Đ đông du Cao Bằng- Vùng đất của những thác nước tự nhiên",
+    "author": {
+      "name": "Author_67",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/98.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["ẩm thực", "nghỉ dưỡng", "Gia đình", "camping"],
+    "id": 45
+  },
+  {
+    "distance": "139 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=18",
+      "https://picsum.photos/1000/600?random=87"
+    ],
+    "time": "Trong ngày",
+    "title": "Phượt xuyên tỉnh Phú Yên - Khánh Hòa | Những điểm check in dọc đường đi từ Tuy Hòa đến Nha Trang",
+    "author": {
+      "name": "Author_49",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/53.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "đi bộ",
+    "type": ["nghỉ dưỡng", "du lịch trải nghiệm", "camping", "ẩm thực"],
+    "id": 46
+  },
+  {
+    "distance": "10 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Chiều thứ 7 dạo hồ Tuyền Lâm Đà Lạt thư giãn cà phê đọc sách - view đẹp nhức nách",
+    "author": {
+      "name": "Author_82",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/5.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "xe máy",
+    "type": [
+      "camping",
+      "ẩm thực",
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng",
+      "Gia đình"
+    ],
+    "id": 47
+  },
+  {
+    "distance": "38 km",
+    "local": "Phú Quý, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "Lịch trình du lịch khám phá đảo Phú Quý 2 ngày 1 đêm hoàn toàn tự túc và tiết kiệm - Cù Lao Thu Bình Thuận",
+    "author": {
+      "name": "Author_93",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "ô tô",
+    "type": [
+      "nghỉ dưỡng",
+      "camping",
+      "Gia đình",
+      "du lịch trải nghiệm",
+      "ẩm thực"
+    ],
+    "id": 48
+  },
+  {
+    "distance": "48 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=30",
+      "https://picsum.photos/1000/600?random=57"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình 1 ngày khám phá làng Hương Quảng Phú Cầu và nặn tò he - nét đẹp đặc biệt ở ngoại ô Thủ Đô",
+    "author": {
+      "name": "Author_95",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/81.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe đạp",
+    "type": ["camping", "ẩm thực"],
+    "id": 49
+  },
+  {
+    "distance": "16 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=34",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày tại SixDoong Camping cuối tuần khám phá bãi đá sông Hồng và đua xe máy cực chất cho nhóm bạn",
+    "author": {
+      "name": "Author_20",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/80.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping"],
+    "id": 50
+  },
+  {
+    "distance": "32 km",
+    "local": "Cô Tô, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "2 ngày",
+    "title": "2n1đ “quậy” hết đảo Cô Tô - Hai bãi tắm đẹp nức tiếng, checkin ngọn Hải đăng và bãi đá Móng Rồng",
+    "author": {
+      "name": "Author_58",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/8.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình", "nghỉ dưỡng", "ẩm thực", "camping"],
+    "id": 51
+  },
+  {
+    "distance": "202 km",
+    "local": "Mộc Châu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Tháng 1 cùng đi ngắm hoa anh đào rực rỡ , hoa mận Mộc Châu trắng muốt - xuất phát từ Yên Bái",
+    "author": {
+      "name": "Author_91",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/7.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "xe đạp",
+    "type": [
+      "nghỉ dưỡng",
+      "ẩm thực",
+      "Gia đình",
+      "du lịch trải nghiệm",
+      "camping"
+    ],
+    "id": 52
+  },
+  {
+    "distance": "102 km",
+    "local": "Chí Thạnh, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=39",
+      "https://picsum.photos/1000/600?random=57",
+      "https://picsum.photos/1000/600?random=30",
+      "https://picsum.photos/1000/600?random=40",
+      "https://picsum.photos/1000/600?random=54"
+    ],
+    "time": "Trong ngày",
+    "title": "Dã ngoại, cắm trại ở Phú Yên | Du lịch rừng núi | Trip trong ngày",
+    "author": {
+      "name": "Author_12",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/31.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "đi bộ",
+    "type": ["Gia đình"],
+    "id": 53
+  },
+  {
+    "distance": "39 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=30"],
+    "time": "Trong ngày",
+    "title": "Một ngày thử làm người Đà Lạt bản địa. Đi đâu, ăn gì?",
+    "author": {
+      "name": "Author_33",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/94.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe đạp",
+    "type": [
+      "nghỉ dưỡng",
+      "ẩm thực",
+      "Gia đình",
+      "camping",
+      "du lịch trải nghiệm"
+    ],
+    "id": 54
+  },
+  {
+    "distance": "12 km",
+    "local": "Hạ Long, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Nửa ngày ở Hạ Long thì làm gì? Chill Beach Bar siêu cuốn ngay tại bãi biển Bãi Cháy",
+    "author": {
+      "name": "Author_16",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/84.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "xe máy",
+    "type": [
+      "nghỉ dưỡng",
+      "Gia đình",
+      "camping",
+      "ẩm thực",
+      "du lịch trải nghiệm"
+    ],
+    "id": 55
+  },
+  {
+    "distance": "329 km",
+    "local": "Ðà Lạt, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "2 ngày",
+    "title": "Cắm trại cực chill, Glamping tại Cầu Đất - Đà Lạt ngắm trọn view săn mây, cối xay gió, đồi chè ☁️🍃",
+    "author": {
+      "name": "Author_100",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/97.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "đi bộ",
+    "type": ["nghỉ dưỡng", "camping", "du lịch trải nghiệm", "Gia đình"],
+    "id": 56
+  },
+  {
+    "distance": "652 km",
+    "local": "Cao Bằng, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "3 ngày",
+    "title": "Chuyến du lịch Cao Bằng 2N1Đ xuất phát từ Hà Nội dành cho ai đam mê phượt",
+    "author": {
+      "name": "Author_19",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/14.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["Gia đình", "du lịch trải nghiệm"],
+    "id": 57
+  },
+  {
+    "distance": "108 km",
+    "local": "Qui Nhon, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Lịch trình Quy Nhơn - Phú Yên | 1 ngày về với vùng đất “hoa vàng trên cỏ xanh”",
+    "author": {
+      "name": "Author_60",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "ô tô",
+    "type": ["camping", "Gia đình", "du lịch trải nghiệm"],
+    "id": 58
+  },
+  {
+    "distance": "125 km",
+    "local": "Ninh Bình, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình 1 ngày đi chơi thả ga cùng gia đình ở Ninh Bình - xuất phát từ Hà Nội",
+    "author": {
+      "name": "Author_62",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/60.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "ô tô",
+    "type": ["Gia đình"],
+    "id": 59
+  },
+  {
+    "distance": "43 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Camping hồ Đồng Đò chiều thứ 7 ngay tại ngoại ô thủ đô Hà Nội",
+    "author": {
+      "name": "Author_18",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/20.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe máy",
+    "type": ["camping"],
+    "id": 60
+  },
+  {
+    "distance": "298 km",
+    "local": "Mộc Châu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "3 ngày",
+    "title": "Lịch trình 3N2Đ khám phá vùng đất Mộc Châu quên lối về",
+    "author": {
+      "name": "Author_85",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/56.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "xe đạp",
+    "type": ["du lịch trải nghiệm", "nghỉ dưỡng", "camping", "Gia đình"],
+    "id": 61
+  },
+  {
+    "distance": "126 km",
+    "local": "Ninh Bình, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "Mùa sen nở đi chụp ảnh cùng Sen đẹp hết ý và cắm trại cực chill ngày cuối tuần nắng đẹp",
+    "author": {
+      "name": "Author_7",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/63.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe máy",
+    "type": ["ẩm thực", "Gia đình", "du lịch trải nghiệm", "camping"],
+    "id": 62
+  },
+  {
+    "distance": "327 km",
+    "local": "Hà Giang, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "2 ngày",
+    "title": "Hành trình phượt bằng xe máy tự túc khám phá Hà Giang trong 2 ngày",
+    "author": {
+      "name": "Author_35",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/76.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["nghỉ dưỡng", "Gia đình", "camping"],
+    "id": 63
+  },
+  {
+    "distance": "5 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "3 bảo tàng Hà Nội “vừa chill, vừa học” cho những ngày không biết làm gì",
+    "author": {
+      "name": "Author_73",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/78.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nam bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình", "ẩm thực", "du lịch trải nghiệm"],
+    "id": 64
+  },
+  {
+    "distance": "10 km",
+    "local": "Thanh Hóa, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Bãi Đông - Thanh Hoá: 1 buổi chiều “phượt” biển khám phá Cây Cô Đơn và Nhà thờ giáo xứ Nghi Sơn",
+    "author": {
+      "name": "Author_48",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/21.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "xe máy",
+    "type": ["Gia đình"],
+    "id": 65
+  },
+  {
+    "distance": "147 km",
+    "local": "Diêm Điền, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "2 ngày",
+    "title": "Lịch trình tự túc đi ngắm biển vô cực Thái Bình - xuất phát từ Hà Nội",
+    "author": {
+      "name": "Author_2",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/11.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "xe đạp",
+    "type": ["Gia đình", "du lịch trải nghiệm"],
+    "id": 66
+  },
+  {
+    "distance": "5 km",
+    "local": "Hanoi, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày xuyên không về Hoàng Thành Thăng Long tại Hà Nội",
+    "author": {
+      "name": "Author_61",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/36.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping", "du lịch trải nghiệm"],
+    "id": 67
+  },
+  {
+    "distance": "629 km",
+    "local": "Lai Châu, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=99"],
+    "time": "4 ngày",
+    "title": "Lai Châu 3 Ngày 2 Đêm - Hành trình tìm chốn bình yên - Xuất phát từ T6",
+    "author": {
+      "name": "Author_14",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/72.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "tây nguyên",
+    "vehicle": "xe đạp",
+    "type": ["nghỉ dưỡng"],
+    "id": 68
+  },
+  {
+    "distance": "50 km",
+    "local": "Cổ Lóa, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1",
+      "https://picsum.photos/1000/600?random=2"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày về Thành Cổ Loa khám phá huyền thoại nỏ thần An Dương Vương",
+    "author": {
+      "name": "Author_62",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/78.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["Gia đình", "camping", "ẩm thực"],
+    "id": 69
+  },
+  {
+    "distance": "20 km",
+    "local": "Pathum Thani, TH",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "1 ngày ở khuôn viên Đại học Thammasat | TẢN BỘ, SĂN ẢNH | Healing, relax [Pathum Thani, Thái Lan]",
+    "author": {
+      "name": "Author_62",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/88.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["camping", "ẩm thực"],
+    "id": 70
+  },
+  {
+    "distance": "56 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=67",
+      "https://picsum.photos/1000/600?random=96",
+      "https://picsum.photos/1000/600?random=60",
+      "https://picsum.photos/1000/600?random=100"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình đi cắm trại cực chill và mát mẻ giữa mùa hè tại Thiên Sơn Suối Ngà cách Hà Nội chỉ 50km",
+    "author": {
+      "name": "Author_23",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/54.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "đi bộ",
+    "type": ["Gia đình", "ẩm thực", "camping", "nghỉ dưỡng"],
+    "id": 71
+  },
+  {
+    "distance": "85 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "2 ngày",
+    "title": "[FREE] Lịch trình trải nghiệm tham quan thắng cảnh Phú Yên 2 ngày 1 đêm CHỈ VỚI 700K🌴Bào hết tp Tuy Hòa có gì vui??!",
+    "author": {
+      "name": "Author_34",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/3.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["du lịch trải nghiệm"],
+    "id": 72
+  },
+  {
+    "distance": "4 km",
+    "local": "Sa Pa, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=72",
+      "https://picsum.photos/1000/600?random=65",
+      "https://picsum.photos/1000/600?random=57",
+      "https://picsum.photos/1000/600?random=39"
+    ],
+    "time": "Trong ngày",
+    "title": "1 ngày đi chụp ảnh tự túc tại bản Cát Cát đẹp miễn bàn, xuất phát từ Sa Pa",
+    "author": {
+      "name": "Author_60",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/93.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc bộ",
+    "vehicle": "xe đạp",
+    "type": ["ẩm thực", "camping", "du lịch trải nghiệm", "nghỉ dưỡng"],
+    "id": 73
+  },
+  {
+    "distance": "40 km",
+    "local": "Hội An, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Lịch trình du hí Hội An trong ngày - xuất phát từ Đà Nẵng",
+    "author": {
+      "name": "Author_92",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/71.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping", "ẩm thực", "nghỉ dưỡng"],
+    "id": 74
+  },
+  {
+    "distance": "182 km",
+    "local": "Mộc Châu, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=0",
+      "https://picsum.photos/1000/600?random=1"
+    ],
+    "time": "Trong ngày",
+    "title": "Cung đường di chuyển trong ngày từ Hà Nội đến Mộc Châu - với những điểm check-in siêu đẹp",
+    "author": {
+      "name": "Author_72",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/35.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam bộ",
+    "vehicle": "ô tô",
+    "type": [
+      "Gia đình",
+      "camping",
+      "ẩm thực",
+      "nghỉ dưỡng",
+      "du lịch trải nghiệm"
+    ],
+    "id": 75
+  },
+  {
+    "distance": "123 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=70"],
+    "time": "Trong ngày",
+    "title": "Phượt xuyên tỉnh Phú Yên - Bình định | Những nơi ghé chân dọc đường từ Tuy Hòa đến Quy Nhơn",
+    "author": {
+      "name": "Author_56",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/66.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "ô tô",
+    "type": [
+      "Gia đình",
+      "camping",
+      "ẩm thực",
+      "du lịch trải nghiệm",
+      "nghỉ dưỡng"
+    ],
+    "id": 76
+  },
+  {
+    "distance": "28 km",
+    "local": "Cát Bà, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=36"],
+    "time": "Trong ngày",
+    "title": "Du hí đảo Cát Bà | lịch trình tự túc 1 ngày cuối tuần khám phá đảo Ngọc thả ga",
+    "author": {
+      "name": "Author_89",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "bắc trung bộ",
+    "vehicle": "đi bộ",
+    "type": ["nghỉ dưỡng"],
+    "id": 77
+  },
+  {
+    "distance": "435 km",
+    "local": "Ban Khao Lak, TH",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=21",
+      "https://picsum.photos/1000/600?random=53",
+      "https://picsum.photos/1000/600?random=96",
+      "https://picsum.photos/1000/600?random=52",
+      "https://picsum.photos/1000/600?random=48"
+    ],
+    "time": "2 ngày",
+    "title": "Khao Lak PHIÊU LƯU KÝ 2 ngày 1 đêm | Thiên nhiên kỳ vĩ của hòn đảo thuộc tỉnh Phuket [Thái Lan]",
+    "author": {
+      "name": "Author_75",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/52.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "đông nam bộ",
+    "vehicle": "đi bộ",
+    "type": ["ẩm thực", "camping", "nghỉ dưỡng"],
+    "id": 78
+  },
+  {
+    "distance": "19 km",
+    "local": "Hà Nội, VN",
+    "thumbnail": [
+      "https://picsum.photos/1000/600?random=92",
+      "https://picsum.photos/1000/600?random=13",
+      "https://picsum.photos/1000/600?random=78",
+      "https://picsum.photos/1000/600?random=95"
+    ],
+    "time": "2 ngày",
+    "title": "Overnight Hà Nội: phượt hồ Tây đêm khuya, bi-a siêu “cháy” cho cặp đôi hoặc nhóm bạn",
+    "author": {
+      "name": "Author_49",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/27.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "đi bộ",
+    "type": ["camping", "Gia đình"],
+    "id": 79
+  },
+  {
+    "distance": "8 km",
+    "local": "Tuy Hòa, VN",
+    "thumbnail": ["https://picsum.photos/1000/600?random=0"],
+    "time": "Trong ngày",
+    "title": "ĂN SẬP TUY HÒA chỉ với 300k | Ăn từ sáng tới chiều | Hàng quán nổi tiếng lâu đời ở Phú Yên",
+    "author": {
+      "name": "Author_60",
+      "avatar": "https://randomuser.me/api/portraits/thumb/men/53.jpg?size=60x50"
+    },
+    "rating": {
+      "score": 95,
+      "count": 100
+    },
+    "lastUpdated": "16 tháng 08, 2024",
+    "price": 0,
+    "summary": [
+      "Chuyến đi ngắn ngày phù hợp cho mọi người.",
+      "Bao gồm các điểm tham quan và chi phí hợp lý."
+    ],
+    "introduction": "Một chuyến đi thú vị dành cho những ai thích khám phá địa phương.",
+    "itinerary": [
+      {
+        "day": 1,
+        "activities": [
+          {
+            "time": "08:00",
+            "description": "Khởi hành từ điểm xuất phát"
+          },
+          {
+            "time": "12:00",
+            "description": "Dừng chân tại điểm tham quan đầu tiên"
+          }
+        ]
+      }
+    ],
+    "area": "nam trung bộ",
+    "vehicle": "xe đạp",
+    "type": ["Gia đình"],
+    "id": 80
+  }
+]

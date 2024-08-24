@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tripwanderer-f58d6",
+    "yes": "tripwanderer-f58d6"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
